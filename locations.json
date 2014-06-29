@@ -839,5 +839,22 @@
       "start":"5:28",
       "end":"5:55"
     }
+  },
+  {
+  "id":52,
+    "type":"Wall breaches",
+    "title":"West Vinewood House",
+    "notes":"Go behind the house and to the rightmost part near the intersection find the part of house wher a V is formed in the ground and run towards it until your guy goes through.",
+    "order":44,
+    "lat":71.067,
+    "lng":-125.464,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Breached inside the house",
+        "url":"http://i.imgur.com/6SWma6k.jpg",
+        "author":"/u/nbagf123",
+        "contact":"http://www.reddit.com/user/nbagf123"
+    }
   }
 ]
